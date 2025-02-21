@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.example.school;
+package com.example.school.exception;
 
 import jakarta.persistence.*;
 
@@ -62,4 +58,3 @@ public class Student {
         this.grade = grade;
     }
 }
-
